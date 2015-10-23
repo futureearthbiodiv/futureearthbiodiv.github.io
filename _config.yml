@@ -1,0 +1,11 @@
+# Site settings
+title: Future Earth Biodiversity
+email: ajay.ranipeta@gmail.com
+description: > # Future Earth Biodiversity. Research for Global Biodiversity Sustainability
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://biodiversitymonitoring.org/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+#    input: GFM
+permalink: pretty
