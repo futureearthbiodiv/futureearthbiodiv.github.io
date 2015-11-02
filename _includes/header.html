@@ -13,12 +13,13 @@
       <ul class="nav navbar-nav">
         {% assign pages = site.pages | sort:"weight"  %}
         {% for node in pages %}
-          {% if node.title %}
+          {% if node.title and node.mainpage %}
               {% if page.url == node.url %}
                 <li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
               {% else %}
                 <li><a href="{{node.url}}">{{node.title}}</a></li>
               {% endif %}
+              {{ node.pages }}
           {% endif %}
         {% endfor %}
       </ul>
