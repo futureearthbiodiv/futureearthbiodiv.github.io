@@ -19,6 +19,11 @@
               {% else %}
                 <li><a href="{{node.url}}">{{node.title}}</a></li>
               {% endif %}
+
+              {% if node.title == 'Events' %}
+              <li><a href="{{node.url}}/2015" class="active">Symposium 2015</a></li>
+              {% endif %}
+
               {{ node.pages }}
           {% endif %}
         {% endfor %}
