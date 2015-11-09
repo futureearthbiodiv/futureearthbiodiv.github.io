@@ -8,7 +8,7 @@ permalink: /about/
 
 ## About ##
 
-The Future Earth cluster on "Global Biodiversity Monitoring, Prediction and Reporting" aims to provide a forum for interdisciplinary research activities and scientific questions associated with a globally integrated monitoring and assessment of biodiversity (species, populations, traits). Its goal is to bring together the observational, conservation, remote sensing and modeling communities concerned with spatiotemporally explicit biodiversity and environmental data to consider the elements and development of a scientifically sound and global biodiversity monitoring system.
+The Future Earth cluster on "Global Biodiversity Monitoring, Prediction and Reporting" aims to provide a forum for interdisciplinary research activities and scientific questions associated with globally integrated monitoring and assessment of biodiversity (species, populations, traits). Its goal is to bring together  observational, conservation, remote sensing and modeling communities concerned with spatio-temporally explicit biodiversity and environmental data to consider the elements and development of a scientifically sound and global biodiversity monitoring system.
 
 ## Aim ##
 

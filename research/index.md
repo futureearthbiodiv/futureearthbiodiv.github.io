@@ -22,7 +22,7 @@ This working group aims to demonstrate the utility of a global biodiversity moni
 
 #### WG3: Biodiversity monitoring for ecosystem services.
 
-This working group asks how we should monitor biodiversity to improve understanding and forecasting of ecosystem functions and services. The group also asks at what spatial and biological scales it is appropriate to monitor for a particular ecosystem service or function, and which global monitoring efforts should be undertaken.
+This working group asks how we should monitor biodiversity to improve understanding and forecasting of ecosystem functions and services. The group also asks at what spatial and biological scales is it appropriate to monitor for a particular ecosystem service or function, and which global monitoring efforts should be undertaken.
 
 #### WG4: Toward a best-possible representative global biodiversity monitoring – research and data needs.
 
