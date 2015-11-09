@@ -7,6 +7,8 @@ weight: 1
 # permalink: /events/
 ---
 
+<link rel="stylesheet" href="{{ "/css/yceiworkshop.css" | prepend: site.baseurl }}">
+
 ### Future Earth Symposium "Global Biodiversity Monitoring" _Yale, May 2015_.
 
 ![Future Earth Biodiversity Monitoring 2015 Participants](/images/people_symposium_2015.png)
@@ -613,9 +615,9 @@ weight: 1
 
 ### Participants
 
-First name | Last name | Affiliation | Email
+First name | Last name | Affiliation
 -- | -- | -- | --  {% for member in site.data.participants2015 %}
-{{ member.first }} | **{{ member.last }}** | {{ member.affiliation }} | [{{ member.email }}](mailto:{{ member.email }}){% endfor %}
+{{ member.first }} | **{{ member.last }}** | {{ member.affiliation }}{% endfor %}
 
 
 
