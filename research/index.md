@@ -8,10 +8,22 @@ permalink: /research/
 
 ## Current Working Groups ##
 
-* Putting species communities and their change on the map: Demonstrating the value and need for multi-species (inventory) data for assessing biodiversity change.
+#### WG1: Putting species communities and their change on the map: Demonstrating the value and need for multi-species (inventory) data for assessing biodiversity change.
 
-* Biodiversity monitoring of globally distributed but readily delineated systems.
+This working group aims to mobilize existing species co-occurrence list data with spatio-temporal attributes to:
 
-* Linking traits and spatiotemporal species data and remote sensing to address community/ecosystem function and service.
+1. Report on historical (1960 to 1990) and recent (1990 to 2010) change.
+2. Identify optimal, integrated and scaled sampling for the future (2010 beyond)
+3. Develop tools: data collection protocols, data standards (e.g. Humboldt Core) and data management and analysis systems (e.g. GBIF, Map of Life etc.)
 
-* Toward a best-possible representative global biodiversity monitoring – research and data needs.
+#### WG2: Biodiversity monitoring of globally distributed but readily delineated systems.
+
+This working group aims to demonstrate the utility of a global biodiversity monitoring scheme through a case study that can be demonstrated quickly. This requires data that exists in standardized format (e.g., Map of Life, CTFS-ForestGEO). The outcome will include identification of priority sample areas for biodiversity monitoring and suggested sampling regimes to address them.
+
+#### WG3: Biodiversity monitoring for ecosystem services.
+
+This working group asks how we should monitor biodiversity to improve understanding and forecasting of ecosystem functions and services. The group also asks at what spatial and biological scales it is appropriate to monitor for a particular ecosystem service or function, and which global monitoring efforts should be undertaken.
+
+#### WG4: Toward a best-possible representative global biodiversity monitoring – research and data needs.
+
+This working group aims to develop a statement for why we should monitor biodiversity, and why monitoring should be done at the global level. The group further seeks to develop goals for where global biodiversity monitoring and assessment should be in the future: 10, 25 and 50 years from now.

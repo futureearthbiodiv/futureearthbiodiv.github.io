@@ -103,6 +103,11 @@ body {
 }
 
 .navbar-default { background: rgba(0, 0, 0, 0.2); }
+.navbar-default .navbar-nav > li > a {
+  font-size: 18px;
+  font-weight: 500;
+}
+
 
 @media (max-width: 600px) {
     body {
@@ -146,13 +151,19 @@ body {
 }
 
 .logos img {
-  max-width: 30%;
-  max-height: 100px;
+  max-height: 80px;
   padding: 10px;
 }
 .logos {
   max-width:800px;
-  margin: auto;}
+  margin: auto;
+  text-align: center;
+}
+
+.copyright {
+  color: #fff;
+  padding-bottom: 10px;
+}
 
 /*
  * Affix and center

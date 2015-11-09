@@ -58,7 +58,7 @@ weight: 1
   <p>
     <span class="time">9:20 </span>Future Earth Overview: Linking Knowledge through Observations, Research
     <br>
-    <span style="margin-left:12px;">and Decision Making</span>
+    <span style="margin-left:12px;">and Decision Making [<a href="/events/2015/presentations/day1_am/1 Ojima_Future_Earth.pdf">PDF</a>]</span>
     <br />
     <p class="person">
       <span class="name">
@@ -72,6 +72,7 @@ weight: 1
 
   <p>
     <span class="time">9:40 </span>Science supporting the Convention on Biological Diversity
+     [<a href="/events/2015/presentations/day1_am/2 Cooper_CBD.pdf">PDF</a>]
     <br/>
     <p class="person">
       <span class="name">
@@ -84,7 +85,7 @@ weight: 1
   </p>
 
   <p>
-    <span class="time">10:00 </span>Biodiversity indicators
+    <span class="time">10:00 </span>Biodiversity indicators [<a href="/events/2015/presentations/day1_am/3 McOwen_Indicators.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -98,6 +99,7 @@ weight: 1
 
   <p>
     <span class="time">10:10 </span>IBES Regional Assessments: a window of opportunity
+    [<a href="/events/2015/presentations/day1_am/4 Spehn_IPBES.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -125,6 +127,7 @@ weight: 1
 
   <p>
     <span class="time">10:35 </span>Detecting Diversity: Paradigm shifts in estimation of species distribution and abundance
+    [<a href="/events/2015/presentations/day1_am/5 Beissinger_SpeciesAbundance.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -138,6 +141,7 @@ weight: 1
 
   <p>
     <span class="time">10:55 </span>Is local biodiversity declining or not? How can we tell?
+    [<a href="/events/2015/presentations/day1_am/6 Cardinale_local biodiversity.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -150,6 +154,7 @@ weight: 1
   </p>
   <p>
     <span class="time">11:15 </span>Community-level models of biodiversity change
+    [<a href="/events/2015/presentations/day1_am/7 Ferrier_biodiversity Monitoring.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -162,6 +167,7 @@ weight: 1
   </p>
   <p>
     <span class="time">11:35 </span>Biodiversity change: a network perspective
+    [<a href="/events/2015/presentations/day1_am/8 Woodward_food webs.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -174,6 +180,7 @@ weight: 1
   </p>
   <p>
     <span class="time">11:55 </span>A dynamic Map of Life: Monitoring species distributions
+    [<a href="/events/2015/presentations/day1_am/9 Jetz_Map_of_Life.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -205,6 +212,7 @@ weight: 1
 
   <p>
     <span class="time">13:30 </span>Monitoring and modelling species extinction risk
+    [<a href="/events/2015/presentations/day1_pm/1 Akcakaya-ThreatenedSpecies.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -216,6 +224,7 @@ weight: 1
   </p>
   <p>
     <span class="time">13:50 </span>Moving from biodiversity towards functional diversity at large spatial scales
+    [<a href="/events/2015/presentations/day1_pm/2 BÖHNING_Functional Biodiv.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -238,6 +247,7 @@ weight: 1
 
   <p>
     <span class="time">14:10 </span>Biodiversity from space: filling the data gap
+    [<a href="/events/2015/presentations/day1_pm/3 Schimel_BD from Space.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -249,6 +259,7 @@ weight: 1
   </p>
   <p>
     <span class="time">14:30 </span>Remotely sensing functional biodiversity: a temperate forest case
+    [<a href="/events/2015/presentations/day1_pm/4 Schaepman_remoteSensing.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -261,6 +272,7 @@ weight: 1
   </p>
   <p>
     <span class="time">14:50 </span>Multi-sensor monitoring of biodiversity
+    [<a href="/events/2015/presentations/day1_pm/5 Turner_NASA.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -293,6 +305,7 @@ weight: 1
 
   <p>
     <span class="time">15:35 </span>Towards enchanced global biodiversity observation, GEO BON
+    [<a href="/events/2015/presentations/day1_pm/6 Gill_GEOBON.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -304,6 +317,7 @@ weight: 1
   </p>
   <p>
     <span class="time">15:55 </span>Plant diversity monitoring in tropical forest of South East Asia:
+    [<a href="/events/2015/presentations/day1_pm/7 Yahara_APBON.pdf">PDF</a>]
     <br>
     <span style="margin-left:12px;">transects along latitudinal and altitudinal gradients</span>
     <br />
@@ -317,6 +331,7 @@ weight: 1
   </p>
   <p>
     <span class="time">16:10 </span>Global forest monitoring: CTFS-ForestGEO network
+    [<a href="/events/2015/presentations/day1_pm/8 Anderson-Teixeira_CTFS-ForestGEO.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -328,6 +343,7 @@ weight: 1
   </p>
   <p>
     <span class="time">16:25 </span>The TEAM monitoring network
+    [<a href="/events/2015/presentations/day1_pm/9 Ahumada_TEAM.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -341,7 +357,8 @@ weight: 1
   <p>
     <span class="time">16:35 </span>The CTFS-ForestGEO Arthopod Initiative 2009-2015:
     <br>
-    <span style="margin-left:12px;">How to monitor insects in tropical forests</span>
+    <span style="margin-left:12px;">How to monitor insects in tropical forests
+    [<a href="/events/2015/presentations/day1_pm/10 Basset_Arthropod CTFS_ForestGEO.pdf">PDF</a>]</span>
     <br />
     <p class="person">
       <span class="name">
@@ -354,6 +371,7 @@ weight: 1
   </p>
   <p>
     <span class="time">16:45 </span>Mountains as experiments by nature: Bioclimatological biodiversity monitoring
+    [<a href="/events/2015/presentations/day1_pm/11 Körner_Mountains.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -366,6 +384,7 @@ weight: 1
   </p>
   <p>
     <span class="time">16:55 </span>Monitoring plant traits: The TRY network
+    [<a href="/events/2015/presentations/day1_pm/12 Kattge_TRY.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -419,6 +438,7 @@ weight: 1
 
   <p>
     <span class="time">9:00 </span>Future Earth projects: a brief recap
+    [<a href="/events/2015/presentations/day2_am/1 Ojima_Future Earth.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -430,6 +450,7 @@ weight: 1
   </p>
   <p>
     <span class="time">9:05 </span>GLP/IGBP
+    [<a href="/events/2015/presentations/day2_am/2 ellis_GLP.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -442,6 +463,7 @@ weight: 1
   </p>
   <p>
     <span class="time">9:10 </span>bioSUSTAINABILITY
+    [<a href="/events/2015/presentations/day2_am/3 Mcphearson_Urban.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -454,6 +476,7 @@ weight: 1
   </p>
   <p>
     <span class="time">9:15 </span>CODATA
+    [<a href="/events/2015/presentations/day2_am/4 Broome_CODATA.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -466,6 +489,7 @@ weight: 1
   </p>
   <p>
     <span class="time">9:20 </span>BioGENESIS
+    [<a href="/events/2015/presentations/day2_am/5 bioGENESIS.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -477,6 +501,7 @@ weight: 1
   </p>
   <p>
     <span class="time">9:25 </span>BioDISCOVERY
+    [<a href="/events/2015/presentations/day2_am/6 bioDISCOVERY.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -488,6 +513,7 @@ weight: 1
   </p>
   <p>
     <span class="time">9:30 </span>IMBER
+    [<a href="/events/2015/presentations/day2_am/7 IMBER.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -513,6 +539,7 @@ weight: 1
   </p>
   <p>
     <span class="time">9:45 </span>Marine: OBIS and GOOS Biology &amp; Ecosystems
+    [<a href="/events/2015/presentations/day2_am/8 OBIS.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -526,7 +553,8 @@ weight: 1
   <p>
     <span class="time">9:55 </span>Demonstration of a U.S. Marine Biodiversity Observation Network (MBON)
     <br>
-    <span style="margin-left:12px;">in a public-private partnership</span>
+    <span style="margin-left:12px;">in a public-private partnership
+    [<a href="/events/2015/presentations/day2_am/9 MBON.pdf">PDF</a>]</span>
     <br />
     <p class="person">
       <span class="name">
@@ -553,6 +581,7 @@ weight: 1
 
   <p>
     <span class="time">10:15 </span>Monitoring and modelling freshwater biodiversity
+    [<a href="/events/2015/presentations/day2_am/10 Durance_Freshwater.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -565,6 +594,7 @@ weight: 1
   </p>
   <p>
     <span class="time">10:25 </span>Spatial modelling of freshwater species
+    [<a href="/events/2015/presentations/day2_am/11 Domisch_SpatialModellingFreshwater.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
@@ -594,6 +624,7 @@ weight: 1
   </p>
   <p>
     <span class="time">10:55 </span>Taxonomies, infrastructure, citizen science
+    [<a href="/events/2015/presentations/day2_am/12 Guralnick_MOLDataUpload.pdf">PDF</a>]
     <br />
     <p class="person">
       <span class="name">
