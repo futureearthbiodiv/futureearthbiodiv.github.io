@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Global Biodiversity Monitoring
+title: Global Biodiversity Monitoring Symposium 2015
 mainpage: false
 subpage: true
 weight: 1

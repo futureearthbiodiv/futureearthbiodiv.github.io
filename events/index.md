@@ -8,7 +8,7 @@ permalink: /events/
 
 ## Upcoming meetings ##
 
-Switzerland, _March 2016_
+[Science, Data and Infrastructure Needs for IPBES and Beyond](2016/) _Switzerland, March 2016_
 
 ## Previous meetings ##
 

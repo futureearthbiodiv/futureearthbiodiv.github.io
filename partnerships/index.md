@@ -26,7 +26,7 @@ permalink: /partnerships/
 
 {:.partner .col-sm-6}
 [![Mountain Biodiversity Portal logo](/images/logos/gmba_logo.jpg)][GMBA]  
-[Mountain Biodiversity Portal][GBMA]
+[Mountain Biodiversity Portal][GMBA]
 
 {:.partner .col-sm-6}
 [![Map of Life logo](/images/logos/mol_logo.png)][MOL]  
@@ -44,7 +44,7 @@ permalink: /partnerships/
 [YECI]: http://climate.yale.edu/ "Yale Climate and Energy Institute"
 [SBSC]: http://sbsc.yale.edu/ "Program in Spatial Biodiversity Science and Conservation"
 [YIBS]: http://yibs.yale.edu/ "Yale Institute for Biospheric Studies"
-[GBMA]: http://www.mountainbiodiversity.org/ "Mountain Biodiversity Portal"
+[GMBA]: http://www.mountainbiodiversity.org/ "Mountain Biodiversity Portal"
 [MOL]: http://mol.org/ "Map of Life"
 [GBON]: http://geobon.org/ "GEO BON"
 [IPBES]: http://www.ipbes.net/ "IPBES"
