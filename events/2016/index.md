@@ -15,7 +15,7 @@ weight: 1
 
 #### _6 - 10 March 2016_
 
-#### _[ Monte Verita](http://www.monteverita.org), Ascona, Switzerland_
+#### _[ Monte Verita](http://www.monteverita.org){: target="blank" }, Ascona, Switzerland_
 
 ![Future Earth Biodiversity Monitoring 2016 Location](/images/symposium_2016_location.jpg)
 
@@ -31,8 +31,12 @@ The symposium follows up on the initial meeting on “Global Biodiversity Monito
 Due to space constraints at Monte Verita, the symposium will be limited to ca. 60-80 invited participants (mix of senior and junior). Keynotes by invited speakers will be followed by working group activities in break-outs sessions during the conference. There is potential for select follow-up workshops to develop synthesis papers or collaborative indicator products. A more detailed agenda will be developed over the coming weeks in liaison with the organizing committee, keynote speakers and Future Earth Scientific Committee.
 
 
-#### Confirmed keynote speakers
+#### **Confirmed plenary speakers**
 
 * Anne Larigauderie (Executive Secretary IPBES)
 * Martin Wikelski (Director, Max Planck Institute for Ornithology)
 * Christian Wirth (Director, German Centre for Integrative Biodiversity Research (iDiv))
+* Steve Kelling (eBird, Cornell Lab of Ornithology)
+
+
+**For more information or to enquire about participation, please [contact us](mailto:gmba@unibas.ch)**
