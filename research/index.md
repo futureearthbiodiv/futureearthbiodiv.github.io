@@ -9,9 +9,8 @@ permalink: /research/
 ## Current Working Groups ##
 
 #### WG1: Putting species communities and their change on the map. 
-Demonstrating the value and need for multi-species (inventory) data for assessing biodiversity change
 
-This working group aims to demonstrate the utility of a global biodiversity monitoring scheme through a case study that can be 
+Demonstrating the value and need for multi-species (inventory) data for assessing biodiversity change.
 
 #### WG2: Biodiversity monitoring of globally distributed but readily delineated systems.
 
