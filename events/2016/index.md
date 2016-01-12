@@ -39,4 +39,33 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * Steve Kelling (eBird, Cornell Lab of Ornithology)
 
 
+### **Support and Sponsorship**
+[![Future Earth logo](/images/logos/futureearth.gif)][FE]  
+[Future Earth][FE]
+
+
+[![Mountain Biodiversity Portal logo](/images/logos/gmba_logo.jpg)][GMBA]  
+[Mountain Biodiversity Portal][GMBA]
+
+
+[![SNF logo](/images/logos/snf_logo.gif)][SNF]  
+[Swiss National Science Foundation][SNF]
+
+
+[![ETHZ logo](/images/logos/eth_logo.jpg)][ETHZ]  
+[Federal Institute of Technology Zurich][ETHZ]
+
+
+[![CSF logo](/images/logos/csf_logo.gif)][CSF]  
+[Congressi Stefano Franscini][CSF]
+
+[FE]: http://futureearth.org/projects "Future Earth Projects"
+[GMBA]: http://www.mountainbiodiversity.org/ "Mountain Biodiversity Portal"
+[SNF]: http://www.snf.ch/ "Swiss National Science Foundation"
+[ETHZ]: http://www.ethz.ch/ "Federal Institute of Technology Zurich"
+[CSF]: http://www.csf.ethz.ch/ "Congressi Stefano Franscini"
+
+
+
+
 **For more information or to enquire about participation, please [contact us](mailto:gmba@unibas.ch)**
