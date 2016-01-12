@@ -98,6 +98,8 @@ h1.hero-text {
 .partner {
   padding-bottom: 10px !important;
   text-align: center;
+  height: 150px;
+  line-height: 45px;
 }
 .partner a img { max-width: 150px; }
 
