@@ -39,7 +39,7 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * Steve Kelling (eBird, Cornell Lab of Ornithology)
 
 
-### **Support and Sponsorship**
+#### **Support and Sponsorship**
 
 {:.partner .col-sm-6}
 [![Future Earth logo](/images/logos/futureearth.gif)][FE]  
