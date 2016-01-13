@@ -21,7 +21,6 @@ weight: 1
 
 A joint of symposium of the Future Earth Clusters 'Global Biodiversity Assessment and Monitoring, Prediction and Reporting' and "Support for IPBES"
 
-<small>Supported by Future Earth, ETH Zurich, GMBA</small>  
 <small>Local hosts: Markus Fischer, Eva Spehn, Walter Jetz, Paul Leadley, Cornelia Krug</small>
 
 Policy, environmental management, and conservation in an interconnected world of ongoing rapid change rely on adequate biodiversity science, data, and infrastructure to support decisions. Regional and global assessment processes under the auspices of IPBES (the Intergovernmental Platform for Biodiversity and Ecosystem Services) are now underway and provide the first of a potentially ongoing evaluation of status and trends of biodiversity and ecosystem services, and of drivers of their change, tied in with global policy processes. What are the key science, data and infrastructure needs to support a global biodiversity monitoring and assessment into the future? Which are the key data, knowledge and technology gaps? Which questions should we ask now, which methods develop, which new types of information integrate, or which complementary data collection begin, to meet these challenges?
