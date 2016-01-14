@@ -32,10 +32,18 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 
 #### **Confirmed plenary speakers**
 
+* Brad Cardinale (University of Michigan)
+* Steve Beissinger (University of Berkeley)
+* Markus Fischer (GMBA, University of Bern)
+* Antoine Guisan (University of Lausanne)
+* Walter Jetz (Yale University)
+* Steve Kelling (eBird, Cornell Lab of Ornithology)
 * Anne Larigauderie (Executive Secretary IPBES)
+* David Schimel (California Institute of Technology, Jet Propulsion Laboratory)
 * Martin Wikelski (Director, Max Planck Institute for Ornithology)
 * Christian Wirth (Director, German Centre for Integrative Biodiversity Research (iDiv))
-* Steve Kelling (eBird, Cornell Lab of Ornithology)
+* Guy Woodward (Imperial College London)
+* Shin Yunne-Jai (Institut de recherche pour le développement)
 
 
 #### **Support and Sponsorship**
