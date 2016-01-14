@@ -32,18 +32,18 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 
 #### **Confirmed plenary speakers**
 
-* Brad Cardinale (University of Michigan)
-* Steve Beissinger (University of Berkeley)
-* Markus Fischer (GMBA, University of Bern)
-* Antoine Guisan (University of Lausanne)
+* [Brad Cardinale](http://snre.umich.edu/profile/cardinale){: target="blank" } (University of Michigan)
+* [Steve Beissinger](http://ourenvironment.berkeley.edu/people_profiles/steven-r-beissinger/){: target="blank" } (University of Berkeley)
+* [Markus Fischer](http://www.botany.unibe.ch/planteco/index.php){: target="blank" } (GMBA, University of Bern)
+* [Antoine Guisan](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-antoine-guisan.html){: target="blank" } (University of Lausanne)
 * [Walter Jetz](http://jetzlab.yale.edu/){: target="blank" } (Yale University)
-* Steve Kelling (eBird, Cornell Lab of Ornithology)
-* Anne Larigauderie (Executive Secretary IPBES)
-* David Schimel (California Institute of Technology, Jet Propulsion Laboratory)
-* Martin Wikelski (Director, Max Planck Institute for Ornithology)
-* Christian Wirth (Director, German Centre for Integrative Biodiversity Research (iDiv))
-* Guy Woodward (Imperial College London)
-* Shin Yunne-Jai (Institut de recherche pour le développement)
+* [Steve Kelling](http://www.birds.cornell.edu/is/staff/staff_steve.html){: target="blank" } (eBird, Cornell Lab of Ornithology)
+* [Anne Larigauderie](http://www.ipbes.net/index.php/2-b-europe-and-central-asia/16-ipbes/about/experts-of-the-day/314-anne-larigauderie){: target="blank" } (Executive Secretary IPBES)
+* [David Schimel](https://science.jpl.nasa.gov/people/Schimel/){: target="blank" } (California Institute of Technology, Jet Propulsion Laboratory)
+* [Martin Wikelski](http://www.orn.mpg.de/wikelski){: target="blank" } (Director, Max Planck Institute for Ornithology)
+* [Christian Wirth](https://www.idiv.de/the-centre/employees/details/eshow/wirth-christian.html){: target="blank" } (Director, German Centre for Integrative Biodiversity Research (iDiv))
+* [Guy Woodward](http://www.imperial.ac.uk/people/guy.woodward){: target="blank" } (Imperial College London)
+* Shin Yunne-Jai (Institut de recherche pour le développement, University of Cape Town)
 
 
 #### **Support and Sponsorship**
