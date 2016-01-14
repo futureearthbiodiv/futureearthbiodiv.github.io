@@ -36,7 +36,7 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * Steve Beissinger (University of Berkeley)
 * Markus Fischer (GMBA, University of Bern)
 * Antoine Guisan (University of Lausanne)
-* Walter Jetz (Yale University)
+* [Walter Jetz](http://jetzlab.yale.edu/){: target="blank" } (Yale University)
 * Steve Kelling (eBird, Cornell Lab of Ornithology)
 * Anne Larigauderie (Executive Secretary IPBES)
 * David Schimel (California Institute of Technology, Jet Propulsion Laboratory)
