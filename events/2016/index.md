@@ -51,7 +51,7 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
   
 #### **Registration**
 
- Registration fee: CHF 1000.00  
+ Registration fee: CHF 1000  
 <small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>  
 
 If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).      
