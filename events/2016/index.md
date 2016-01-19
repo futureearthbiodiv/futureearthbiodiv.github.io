@@ -45,8 +45,11 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Christian Wirth](https://www.idiv.de/the-centre/employees/details/eshow/wirth-christian.html){: target="blank" } (Director, German Centre for Integrative Biodiversity Research (iDiv))
 * [Guy Woodward](http://www.imperial.ac.uk/people/guy.woodward){: target="blank" } (Imperial College London)
 * [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier)    
-      
-      
+#### ** **
+#### **  **
+  
+     
+ 
 
 #### **Registration**
 
