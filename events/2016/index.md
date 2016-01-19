@@ -51,15 +51,10 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
   
 #### **Registration**
 
-Please click [here](http://www.bi.id.ethz.ch/eventsOnline/anonymous/registerParticipantForConference.faces?webboname=Conference&loadid=3l3o75s-d0b0ix-hhnafptz-1-ie3vmbx1-8fc8){: target="blank" } to be redirected to the registration page.
-
-Please do not fill in any information under "Accomodation", "Room type", and "Share room with", but indicate if you will be accompanied.
-
-Important note regarding payment: if you chose to pay via credit card, you will be required to enter the amount manually. Please apply the registration fee below. If for some reason you will not join the social dinner or the welcome apero, or you need to shorten your stay, you will be reimbursed after the meeting.
-
-Registration fee: CHF 1000.00  
+ Registration fee: CHF 1000.00  
 <small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>  
-      
+
+If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).      
         
 
 #### **Travel information**
