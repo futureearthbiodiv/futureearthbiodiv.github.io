@@ -44,7 +44,9 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Christian Wirth](https://www.idiv.de/the-centre/employees/details/eshow/wirth-christian.html){: target="blank" } (Director, German Centre for Integrative Biodiversity Research (iDiv))
 * [Guy Woodward](http://www.imperial.ac.uk/people/guy.woodward){: target="blank" } (Imperial College London)
 * [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier)    
-
+   
+   
+   
 
 #### **Registration**
 
@@ -56,9 +58,15 @@ Important note regarding payment: if you chose to pay via credit card, you will 
 
 Registration fee: CHF 1000.00  
 <small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>
+   
+     
+   
+#### **Travel information**
 
-  
-
+The closest airport is that of Zurich. From Zurich airport to Locarno it takes between 3 and 3.5 hours by train and costs CHF 132 for a return tickey in 2nd class. For connections, please consult the [Swiss railway website](http://fahrplan.sbb.ch/bin/query.exe/en&HWAI=JS!ajax=yes!&){: target="blank" }. From Locarno to Monte Verita we will be organizing shuttles during certain periods of the day. More information will become available early March.
+     
+   
+      
 #### **Support and Sponsorship**
 
 {:.partner .col-sm-6}
