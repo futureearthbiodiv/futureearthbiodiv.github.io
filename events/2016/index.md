@@ -28,8 +28,8 @@ Policy, environmental management, and conservation in an interconnected world of
 The symposium follows up on the initial meeting on “Global Biodiversity Monitoring” at Yale University in May 2015. The 2016 event will in particular bring biodiversity and global change scientists from Europe, Africa, and Asia to this discussion and add as additional focus the scientific needs for IPBES, in particular on indicators and scenarios. Key goals of the conference are to link the main research groups active in this area, improve data sharing, develop collaborative analyses, realize potential synergies and advance international cooperation. Work efforts to date have been organized into several working groups and the meeting will provide opportunity for these groups to advance or complete their work and for new initiatives to form. Future Earth is entering the next formative stage and the symposium is a forum to advance the role of biodiversity within Future Earth as well as develop or engage in new research and funding opportunities under its umbrella.
 
 Due to space constraints at Monte Verita, the symposium will be limited to ca. 60-80 invited participants (mix of senior and junior). Keynotes by invited speakers will be followed by working group activities in break-outs sessions during the conference. There is potential for select follow-up workshops to develop synthesis papers or collaborative indicator products. A more detailed agenda will be developed over the coming weeks in liaison with the organizing committee, keynote speakers and Future Earth Scientific Committee.  
-   
-   
+
+<p> &nbsp; </p>
 
 #### **Confirmed plenary speakers**
 
@@ -44,25 +44,25 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Martin Wikelski](http://www.orn.mpg.de/wikelski){: target="blank" } (Director, Max Planck Institute for Ornithology)
 * [Christian Wirth](https://www.idiv.de/the-centre/employees/details/eshow/wirth-christian.html){: target="blank" } (Director, German Centre for Integrative Biodiversity Research (iDiv))
 * [Guy Woodward](http://www.imperial.ac.uk/people/guy.woodward){: target="blank" } (Imperial College London)
-* [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier) 
-    
-       
-   
-  
+* [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier)
+
+<p> &nbsp; </p>
+
 #### **Registration**
 
  Registration fee: CHF 1000  
 <small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>  
 
 If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).      
-        
+
+<p> &nbsp; </p>
 
 #### **Travel information**
 
 The closest airport is that of Zurich. From Zurich airport to Locarno it takes between 3 and 3.5 hours by train and costs CHF 132 for a return tickey in 2nd class. For connections, please consult the [Swiss railway website](http://fahrplan.sbb.ch/bin/query.exe/en&HWAI=JS!ajax=yes!&){: target="blank" }. From Locarno to Monte Verita we will be organizing shuttles during certain periods of the day. More information will become available early March.  
-        
-     
- 
+
+<p> &nbsp; </p>
+
 #### **Support and Sponsorship**
 
 {:.partner .col-sm-6}
