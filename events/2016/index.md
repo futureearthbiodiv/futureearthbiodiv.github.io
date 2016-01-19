@@ -13,9 +13,9 @@ weight: 1
 
 ### Science, Data and Infrastructure Needs for IPBES and Beyond
 
-#### _6 - 10 March 2016_
+#### 6 - 10 March 2016
 
-#### _[ Monte Verita](http://www.monteverita.org){: target="blank" }, Ascona, Switzerland_
+#### [Monte Verita](http://www.monteverita.org){: target="blank" }, Ascona, Switzerland
 
 ![Future Earth Biodiversity Monitoring 2016 Location](/images/symposium_2016_location.jpg)
 
@@ -54,8 +54,7 @@ Please do not fill in any information under "Accomodation", "Room type", and "Sh
 
 Important note regarding payment: if you chose to pay via credit card, you will be required to enter the amount manually. Please apply the registration fee below. If for some reason you will not join the social dinner or the welcome apero, or you need to shorten your stay, you will be reimbursed after the meeting.
 
-Registration fee (all included): CHF 1000.00
-
+Registration fee: CHF 1000.00  
 <small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>
 
   
