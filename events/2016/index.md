@@ -19,7 +19,7 @@ weight: 1
 
 ![Future Earth Biodiversity Monitoring 2016 Location](/images/symposium_2016_location.jpg)
 
-A joint of symposium of the Future Earth Clusters 'Global Biodiversity Assessment and Monitoring, Prediction and Reporting' and "Support for IPBES"
+A joint symposium of the Future Earth Clusters 'Global Biodiversity Assessment and Monitoring, Prediction and Reporting' and "Support for IPBES"
 
 <small>Local hosts: Markus Fischer, Eva Spehn, Walter Jetz, Paul Leadley, Cornelia Krug</small>
 
