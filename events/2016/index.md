@@ -29,8 +29,7 @@ The symposium follows up on the initial meeting on “Global Biodiversity Monito
 
 Due to space constraints at Monte Verita, the symposium will be limited to ca. 60-80 invited participants (mix of senior and junior). Keynotes by invited speakers will be followed by working group activities in break-outs sessions during the conference. There is potential for select follow-up workshops to develop synthesis papers or collaborative indicator products. A more detailed agenda will be developed over the coming weeks in liaison with the organizing committee, keynote speakers and Future Earth Scientific Committee.  
 
-<p> &nbsp; </p>
-
+{:.extra-spacing}
 #### **Confirmed plenary speakers**
 
 * [Brad Cardinale](http://snre.umich.edu/profile/cardinale){: target="blank" } (University of Michigan)
@@ -46,8 +45,7 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Guy Woodward](http://www.imperial.ac.uk/people/guy.woodward){: target="blank" } (Imperial College London)
 * [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier)
 
-<p> &nbsp; </p>
-
+{:.extra-spacing}
 #### **Registration**
 
  Registration fee: CHF 1000  
@@ -55,14 +53,12 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 
 If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).      
 
-<p> &nbsp; </p>
-
+{:.extra-spacing}
 #### **Travel information**
 
 The closest airport is that of Zurich. From Zurich airport to Locarno it takes between 3 and 3.5 hours by train and costs CHF 132 for a return tickey in 2nd class. For connections, please consult the [Swiss railway website](http://fahrplan.sbb.ch/bin/query.exe/en&HWAI=JS!ajax=yes!&){: target="blank" }. From Locarno to Monte Verita we will be organizing shuttles during certain periods of the day. More information will become available early March.  
 
-<p> &nbsp; </p>
-
+{:.extra-spacing}
 #### **Support and Sponsorship**
 
 {:.partner .col-sm-6}
