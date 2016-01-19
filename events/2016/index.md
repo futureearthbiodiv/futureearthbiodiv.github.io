@@ -44,13 +44,11 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Martin Wikelski](http://www.orn.mpg.de/wikelski){: target="blank" } (Director, Max Planck Institute for Ornithology)
 * [Christian Wirth](https://www.idiv.de/the-centre/employees/details/eshow/wirth-christian.html){: target="blank" } (Director, German Centre for Integrative Biodiversity Research (iDiv))
 * [Guy Woodward](http://www.imperial.ac.uk/people/guy.woodward){: target="blank" } (Imperial College London)
-* [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier)    
-#### ** **
-#### **  **
+* [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier) 
+    
+       
+   
   
-     
- 
-
 #### **Registration**
 
 Please click [here](http://www.bi.id.ethz.ch/eventsOnline/anonymous/registerParticipantForConference.faces?webboname=Conference&loadid=3l3o75s-d0b0ix-hhnafptz-1-ie3vmbx1-8fc8){: target="blank" } to be redirected to the registration page.
