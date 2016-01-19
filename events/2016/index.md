@@ -57,11 +57,11 @@ Important note regarding payment: if you chose to pay via credit card, you will 
 Registration fee (all included): CHF 1000.00
 
 <small>The registration fee includes:</small>
-* <small>Symposium registration</small>
-* <small>Accomodation (4 nights)</small>
-* <small>Meals (breakfast, lunch, dinner) and coffee breaks (2/day)</small>
-* <small>Social dinner (1 ticket per participant)</small>
-* <small>Welcome apero (1 ticket per participant)</small>
+ <small>* Symposium registration</small>
+<small>* Accomodation (4 nights)</small>
+<small>* Meals (breakfast, lunch, dinner) and coffee breaks (2/day)</small>
+<small>* Social dinner (1 ticket per participant)</small>
+<small>* Welcome apero (1 ticket per participant)</small>
 
   
   
