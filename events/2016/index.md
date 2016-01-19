@@ -46,6 +46,28 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * Shin Yunne-Jai (Institut de recherche pour le développement, University of Cape Town)
 
 
+#### **Registration**
+
+Please click [here](http://www.bi.id.ethz.ch/eventsOnline/anonymous/registerParticipantForConference.faces?webboname=Conference&loadid=3l3o75s-d0b0ix-hhnafptz-1-ie3vmbx1-8fc8){: target="blank" } to be redirected to the registration page.
+
+Please do not fill in any information under "Accomodation", "Room type", and "Share room with", but indicate if you will be accompanied.
+
+Important note regarding payment: if you chose to pay via credit card, you will be required to enter the amount manually. Please apply the registration fee below. If for some reason you will not join the social dinner or the welcome apero, or you need to shorten your stay, you will be reimbursed after the meeting.
+
+Registration fee (all included): CHF 1000.00
+
+<small>The registration fee includes:
+* Symposium registration
+* Accomodation (4 nights)
+* Meals (breakfast, lunch, dinner) and coffee breaks (2/day)
+* Social dinner (1 ticket per participant)
+* Welcome apero (1 ticket per participant)</small>
+
+  
+  
+  
+  
+
 #### **Support and Sponsorship**
 
 {:.partner .col-sm-6}
