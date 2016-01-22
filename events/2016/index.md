@@ -39,7 +39,6 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Walter Jetz](http://jetzlab.yale.edu/){: target="blank" } (Yale University)
 * [Steve Kelling](http://www.birds.cornell.edu/is/staff/staff_steve.html){: target="blank" } (eBird, Cornell Lab of Ornithology)
 * [Anne Larigauderie](http://www.ipbes.net/index.php/2-b-europe-and-central-asia/16-ipbes/about/experts-of-the-day/314-anne-larigauderie){: target="blank" } (Executive Secretary IPBES)
-* [David Schimel](https://science.jpl.nasa.gov/people/Schimel/){: target="blank" } (California Institute of Technology, Jet Propulsion Laboratory)
 * [Martin Wikelski](http://www.orn.mpg.de/wikelski){: target="blank" } (Director, Max Planck Institute for Ornithology)
 * [Christian Wirth](https://www.idiv.de/the-centre/employees/details/eshow/wirth-christian.html){: target="blank" } (Director, German Centre for Integrative Biodiversity Research (iDiv))
 * [Guy Woodward](http://www.imperial.ac.uk/people/guy.woodward){: target="blank" } (Imperial College London)
