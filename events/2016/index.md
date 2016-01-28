@@ -48,12 +48,17 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Shin Yunne-Jai](http://www.umr-marbec.fr/shin-yunne-jai.html?lang=en) (Institute of Research for Development, Montpellier)
 
 {:.extra-spacing}
+#### **Program Schedule**
+
+Draft program schedule is available [here](http://biodiversitymonitoring.org/events/2016/MonteVerita_Future_Earth_Symposium_Program.pdf).
+
+{:.extra-spacing}
 #### **Registration**
 
- Registration fee: CHF 1000  
-<small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small> 
+ Registration fee: CHF 800  
+<small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>
 
-Accomodation is booked from Sunday 06.03 to Thursday 10.03. If you arrive earlier or leave later and want to stay in Monte Verita, please get in touch with the [Monte Verita hotel](http://www.monteverita.org/en/13/default.aspx) to make a reservation. 
+Accomodation is booked from Sunday 06.03 to Thursday 10.03. If you arrive earlier or leave later and want to stay in Monte Verita, please get in touch with the [Monte Verita hotel](http://www.monteverita.org/en/13/default.aspx) to make a reservation.
 
 If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).      
 
