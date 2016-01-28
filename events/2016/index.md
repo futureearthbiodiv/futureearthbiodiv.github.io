@@ -58,7 +58,7 @@ Draft program schedule is available [here](http://biodiversitymonitoring.org/eve
  Registration fee: CHF 800  
 <small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>
 
-Accomodation is booked from Sunday 06.03 to Thursday 10.03. If you arrive earlier or leave later and want to stay in Monte Verita, please get in touch with the [Monte Verita hotel](http://www.monteverita.org/en/13/default.aspx) to make a reservation.
+Accomodation is booked from Sunday 06.03 to Thursday 10.03.
 
 If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).      
 
