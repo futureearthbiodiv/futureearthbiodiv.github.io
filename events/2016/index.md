@@ -38,7 +38,7 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 * [Antoine Guisan](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-antoine-guisan.html){: target="blank" } (University of Lausanne)
 * [Rob Guralnick](https://sites.google.com/site/robgur/){: target="blank" } (University of Florida)
 * [Walter Jetz](http://jetzlab.yale.edu/){: target="blank" } (Yale University)
-* [Steve Kelling](http://www.birds.cornell.edu/is/staff/staff_steve.html){: target="blank" } (eBird, Cornell Lab of Ornithology)
+* [Steve Kelling](http://www.birds.cornell.edu/is/staff/staff_steve.html){: target="blank" } (Director of Information Science at the Cornell Lab of Ornithology)
 * [Anne Larigauderie](http://www.ipbes.net/index.php/2-b-europe-and-central-asia/16-ipbes/about/experts-of-the-day/314-anne-larigauderie){: target="blank" } (Executive Secretary IPBES)
 * [Paul Leadley](http://www.ese.u-psud.fr/article360.html?lang=en){: target="blank" } (University Paris Sud)
 * [Anne-Helene Prieur-Richard](http://www.futureearth.org/anne-helene-prieur-richard){: target="blank" } (Future Earth Global Hub Director)
