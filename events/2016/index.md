@@ -32,7 +32,7 @@ Due to space constraints at Monte Verita, the symposium will be limited to ca. 6
 {:.extra-spacing}
 #### **Confirmed plenary speakers**
 
-* [Steve Beissinger](http://ourenvironment.berkeley.edu/people_profiles/steven-r-beissinger/){: target="blank" } (University of Berkeley)
+* [Steve Beissinger](http://ourenvironment.berkeley.edu/people_profiles/steven-r-beissinger/){: target="blank" } (UC Berkeley)
 * [Brad Cardinale](http://snre.umich.edu/profile/cardinale){: target="blank" } (University of Michigan)
 * [Markus Fischer](http://www.botany.unibe.ch/planteco/index.php){: target="blank" } (GMBA, University of Bern)
 * [Antoine Guisan](http://www.unil.ch/dee/home/menuinst/people/group-leaders/prof-antoine-guisan.html){: target="blank" } (University of Lausanne)
