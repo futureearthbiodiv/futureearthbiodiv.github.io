@@ -56,11 +56,13 @@ Draft program schedule is available [here](http://biodiversitymonitoring.org/eve
 #### **Registration**
 
  Registration fee: CHF 800  
-<small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>
+<small>The registration fee includes: the symposium registration, the accomodation (4 nights), all meals (breakfast, lunch, dinner) and coffee breaks (2/day), the social dinner (1 ticket per participant), and the welcome apero (1 ticket per participant)</small>.
 
 Accomodation is booked from Sunday 06.03 to Thursday 10.03.
 
-If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).      
+If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch). 
+
+Note that ETH Zürich collects the conference participation charges as collection agent for the host University of Bern and does not provide own services.
 
 {:.extra-spacing}
 #### **Travel information**
