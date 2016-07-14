@@ -59,7 +59,7 @@ Draft program schedule is available [here](http://biodiversitymonitoring.org/eve
 
 Accomodation is booked from Sunday 06.03 to Thursday 10.03.
 
-If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch). 
+If you are interested in participating, please contact us via [mail](mailto:gmba@unibas.ch).
 
 Note that ETH Zürich collects the conference participation charges as collection agent for the host University of Bern and does not provide own services.
 
@@ -76,8 +76,8 @@ The closest airport is that of Zurich. From Zurich airport to Locarno it takes b
 [Future Earth][FE]
 
 {:.partner .col-sm-6}
-[![Mountain Biodiversity Portal logo](/images/logos/gmba_logo.jpg)][GMBA]  
-[Mountain Biodiversity Portal][GMBA]
+[![Global Mountain Biodiversity Assessment logo](/images/logos/gmba_logo.png)][GMBA]  
+[Global Mountain Biodiversity Assessment][GMBA]
 
 {:.partner .col-sm-4}
 [![SNF logo](/images/logos/snf_logo.gif)][SNF]  
@@ -92,7 +92,7 @@ The closest airport is that of Zurich. From Zurich airport to Locarno it takes b
 [Congressi Stefano Franscini][CSF]
 
 [FE]: http://futureearth.org/projects "Future Earth Projects"
-[GMBA]: http://www.mountainbiodiversity.org/ "Mountain Biodiversity Portal"
+[GMBA]: http://www.gmba.unibe.ch/ "Global Mountain Biodiversity Assessment"
 [SNF]: http://www.snf.ch/ "Swiss National Science Foundation"
 [ETHZ]: http://www.ethz.ch/ "Federal Institute of Technology Zurich"
 [CSF]: http://www.csf.ethz.ch/ "Congressi Stefano Franscini"
